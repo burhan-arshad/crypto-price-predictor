@@ -4,7 +4,7 @@ An end-to-end machine learning pipeline that predicts short-term Bitcoin price d
 
 ## Live Demo
 
-[Live Demo](YOUR_LIVE_DEMO_URL)
+[Live Demo](https://crypto-price-predictor-burhan.streamlit.app/)
 
 > Educational machine learning research project. This application does not provide financial or investment advice and is not intended for real-money trading.
 
