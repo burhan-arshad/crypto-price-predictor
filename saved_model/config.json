@@ -1,0 +1,11 @@
+{
+    "symbol": "BTCUSDT",
+    "interval": "1h",
+    "window_size": 60,
+    "future_window": 10,
+    "label_mapping": {
+        "0": "DOWN",
+        "1": "UP"
+    },
+    "prediction_threshold": 0.5
+}
