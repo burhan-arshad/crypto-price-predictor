@@ -203,8 +203,8 @@ Crypto Signal System/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd "Crypto Signal System"
+git clone https://github.com/burhan-arshad/crypto-price-predictor
+cd "crypto-price-predictor"
 ```
 
 Install dependencies:
